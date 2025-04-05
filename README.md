@@ -20,7 +20,7 @@ This is a simple Laravel-based application designed to handle job processing and
 
 ## Setup & Installation
 
-![Job Application Flow](resourses/images/index1.png)
+![Job Application Flow](blob/main/resources/images/Index1.png)
 
 
 
