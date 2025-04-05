@@ -3,6 +3,7 @@
 # Pixel-Position Job Application
 
 ![Job Application Flow](https://github.com/Nikolam96/token-position/blob/main/resources/images/Index1.png)
+
 ![Job Application Flow](https://github.com/Nikolam96/token-position/blob/main/resources/images/Index2.png)
 
 
