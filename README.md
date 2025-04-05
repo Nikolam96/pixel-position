@@ -1,6 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Laravel Job Application
+# Pixel-Position Job Application
+
+![Job Application Flow](https://github.com/Nikolam96/token-position/blob/main/resources/images/Index1.png)
+![Job Application Flow](https://github.com/Nikolam96/token-position/blob/main/resources/images/Index2.png)
+
 
 This is a simple Laravel-based application designed to handle job processing and management with MySQL as the database, authentication, and background workers for processing jobs asynchronously.
 
@@ -20,7 +24,11 @@ This is a simple Laravel-based application designed to handle job processing and
 
 ## Setup & Installation
 
-![Job Application Flow](https://github.com/Nikolam96/token-position/blob/main/resources/images/Index1.png)
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Nikolam96/pixel-position.git
+cd pixel-position
+
 
 
 
