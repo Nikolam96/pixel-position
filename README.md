@@ -20,10 +20,8 @@ This is a simple Laravel-based application designed to handle job processing and
 
 ## Setup & Installation
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/laravel-job-app.git
-cd laravel-job-app
+![Job Application Flow](resourses/images/index1.png)
+
 
 
 
